@@ -9,10 +9,10 @@
 "question_number": 1,
 "group_id": "prepositions_place",
 "type": "choice",
-"question": "Hanan Al-Hroub was a poorly paid teacher ...... the West Bank.",
+"question": "she was a poorly paid teacher ...... the West Bank.",
 "options": ["at", "in", "on", "to"],
 "correct": 1,
-"sentence_translation": "كانت حنان الحروب معلمة منخفضة الأجر في الضفة الغربية.",
+"sentence_translation": "كانت  معلمة منخفضة الأجر في الضفة الغربية.",
 "explanation": "نستخدم 'in' مع الدول والمدن."
 },
 {
