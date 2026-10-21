@@ -1,0 +1,59 @@
+{
+"questions": [
+{
+"id": "L1_FREE_001",
+"question": "What is your favourite subject? Why?",
+"keywords": ["English", "Arabic", "Math", "Science", "interesting", "important", "useful", "fun"],
+"explanation": "ما هي مادتك المفضلة؟ لماذا؟",
+"sampleAnswers": [
+"My favourite subject is English because it is interesting and useful.",
+"I like Math because it helps me solve problems.",
+"My favourite subject is Science because it is fun and important."
+]
+},
+{
+"id": "L1_FREE_002",
+"question": "How do you help your family at home?",
+"keywords": ["help", "mother", "father", "clean", "cook", "wash", "tidy", "shopping"],
+"explanation": "كيف تساعد عائلتك في المنزل؟",
+"sampleAnswers": [
+"I help my mother clean the house and wash the dishes.",
+"I help my father with shopping and I tidy my room.",
+"I help my family by cooking and cleaning."
+]
+},
+{
+"id": "L1_FREE_003",
+"question": "What do you do in your free time?",
+"keywords": ["play", "read", "watch", "football", "games", "books", "TV", "music"],
+"explanation": "ماذا تفعل في وقت فراغك؟",
+"sampleAnswers": [
+"In my free time, I play football and read books.",
+"I like to watch TV and listen to music.",
+"I usually play games and read stories."
+]
+},
+{
+"id": "L1_FREE_004",
+"question": "Why is it important to work together?",
+"keywords": ["together", "team", "help", "solve", "problems", "achieve", "goals", "faster"],
+"explanation": "لماذا من المهم العمل معاً؟",
+"sampleAnswers": [
+"It is important to work together because we can solve problems faster.",
+"Working together helps us achieve our goals and helps each other.",
+"Teamwork is important because we help each other and finish faster."
+]
+},
+{
+"id": "L1_FREE_005",
+"question": "What makes a good teacher?",
+"keywords": ["patient", "kind", "helpful", "fun", "explain", "understand", "students"],
+"explanation": "ما الذي يجعل المعلم جيداً؟",
+"sampleAnswers": [
+"A good teacher is patient and kind with students.",
+"A good teacher explains lessons well and helps students understand.",
+"A good teacher is helpful, fun, and patient."
+]
+}
+]
+}
