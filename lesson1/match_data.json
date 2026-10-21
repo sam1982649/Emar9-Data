@@ -1,0 +1,200 @@
+{
+"groups": [
+{
+"id": 1,
+"title": "Match the Sentence Parts - A Different Class",
+"source": "student_book",
+"source_text": "A Different Class",
+"section": "Reading",
+"exercise_letter": "B",
+"question_start": 1,
+"options": [
+{ "letter": "a", "text": "Mrs. Al-Hroub uses balloons" },
+{ "letter": "b", "text": "to build their characters" },
+{ "letter": "c", "text": "her own foundation" },
+{ "letter": "d", "text": "prevent her from being a special person" },
+{ "letter": "e", "text": "improve behaviour" },
+{ "letter": "f", "text": "about the struggle of daily life" }
+],
+"sentences": [
+{
+"start": "Besides her clown outfit,",
+"correct": "a",
+"question_number": 1,
+"translation": "بالإضافة إلى ملابسها المهرجة، تستخدم السيدة الحروب البالونات"
+},
+{
+"start": "She sees it as her duty",
+"correct": "b",
+"question_number": 2,
+"translation": "ترى أنها واجبها أن تبني شخصياتهم"
+},
+{
+"start": "Mrs. Al-Hroub plans to establish",
+"correct": "c",
+"question_number": 3,
+"translation": "تخطط السيدة الحروب لتأسيس مؤسستها الخاصة"
+},
+{
+"start": "failing to be a doctor did not",
+"correct": "d",
+"question_number": 4,
+"translation": "الفشل في أن تصبح طبيبة لم يمنعها من أن تكون شخصاً مميزاً"
+},
+{
+"start": "Her methods",
+"correct": "e",
+"question_number": 5,
+"translation": "أساليبها تحسن السلوك"
+}
+]
+},
+{
+"id": 2,
+"title": "Match the Sentence Parts - Exercises",
+"source": "student_book",
+"source_text": "A Different Class - Exercises",
+"section": "Vocabulary",
+"exercise_letter": null,
+"question_start": 1,
+"options": [
+{ "letter": "a", "text": "for their excellent work" },
+{ "letter": "b", "text": "a hammer to open his paint cans" },
+{ "letter": "c", "text": "wear the uniform in all the meetings" },
+{ "letter": "d", "text": "about child protection" },
+{ "letter": "e", "text": "lasted for two years" },
+{ "letter": "f", "text": "with all the materials" }
+],
+"sentences": [
+{
+"start": "The teacher began to praise the students",
+"correct": "a",
+"question_number": 1,
+"translation": "بدأ المعلم يمدح الطلاب على عملهم الممتاز"
+},
+{
+"start": "The artist had to employ",
+"correct": "b",
+"question_number": 2,
+"translation": "اضطر الفنان لاستخدام مطرقة لفتح علب الطلاء"
+},
+{
+"start": "Members in the scout group have to",
+"correct": "c",
+"question_number": 3,
+"translation": "يجب على أعضاء مجموعة الكشافة ارتداء الزي الرسمي في جميع الاجتماعات"
+},
+{
+"start": "Some of their activities are",
+"correct": "d",
+"question_number": 4,
+"translation": "بعض أنشطتهم تتعلق بحماية الطفل"
+},
+{
+"start": "His struggle against cancer",
+"correct": "e",
+"question_number": 5,
+"translation": "استمر صراعه مع السرطان لمدة عامين"
+}
+]
+},
+{
+"id": 3,
+"title": "Match the Sentence Parts - From Microsoft to Tomatoes",
+"source": "activity_book",
+"source_text": "From Microsoft to Tomatoes",
+"section": "Reading",
+"exercise_letter": "B",
+"question_start": 1,
+"options": [
+{ "letter": "a", "text": "computer or email address" },
+{ "letter": "b", "text": "virtually you don't exist" },
+{ "letter": "c", "text": "he ended up with almost £100" },
+{ "letter": "d", "text": "a hundred former unemployed people, all selling tomatoes" },
+{ "letter": "e", "text": "he decided to buy life insurance" },
+{ "letter": "f", "text": "transport several dozen boxes" }
+],
+"sentences": [
+{
+"start": "The man said that he had no",
+"correct": "a",
+"question_number": 1,
+"translation": "قال الرجل أنه ليس لديه كمبيوتر أو بريد إلكتروني"
+},
+{
+"start": "He managed a staff of",
+"correct": "d",
+"question_number": 2,
+"translation": "كان يدير طاقماً من مائة شخص عاطل عن العمل سابقاً، جميعهم يبيعون الطماطم"
+},
+{
+"start": "Repeating the process several times that day,",
+"correct": "c",
+"question_number": 3,
+"translation": "بتكرار العملية عدة مرات في ذلك اليوم، انتهى بحوالي 100 جنيه"
+},
+{
+"start": "Not having an email means that",
+"correct": "b",
+"question_number": 4,
+"translation": "عدم امتلاك بريد إلكتروني يعني أنك غير موجود فعلياً"
+},
+{
+"start": "Planning for the future of his family",
+"correct": "e",
+"question_number": 5,
+"translation": "التخطيط لمستقبل عائلته، قرر شراء تأمين على الحياة"
+}
+]
+},
+{
+"id": 4,
+"title": "Match the Sentence Parts - Additional Exercises",
+"source": "activity_book",
+"source_text": "exercises",
+"section": "Grammar",
+"exercise_letter": null,
+"question_start": 1,
+"options": [
+{ "letter": "a", "text": "the behavior test" },
+{ "letter": "b", "text": "of his mother's advice" },
+{ "letter": "c", "text": "three questions about the job" },
+{ "letter": "d", "text": "the door was open" },
+{ "letter": "e", "text": "on the stairs" },
+{ "letter": "f", "text": "run as an exercise" }
+],
+"sentences": [
+{
+"start": "Thomas has passed",
+"correct": "a",
+"question_number": 1,
+"translation": "توماس اجتاز اختبار السلوك"
+},
+{
+"start": "Thomas got the job because",
+"correct": "b",
+"question_number": 2,
+"translation": "حصل توماس على الوظيفة بسبب نصيحة والدته"
+},
+{
+"start": "The employer asked Thomas",
+"correct": "c",
+"question_number": 3,
+"translation": "سأل صاحب العمل توماس ثلاثة أسئلة عن الوظيفة"
+},
+{
+"start": "He put the door latch back because",
+"correct": "d",
+"question_number": 4,
+"translation": "أعاد مزلاج الباب لأن الباب كان مفتوحاً"
+},
+{
+"start": "The water was spilling",
+"correct": "e",
+"question_number": 5,
+"translation": "كان الماء ينسكب على الدرج"
+}
+]
+}
+]
+}
