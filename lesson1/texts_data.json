@@ -1,0 +1,289 @@
+{
+"texts": [
+{
+"id": 1,
+"title": "A Different Class - Part 1",
+"source": "student_book",
+"type": "choice",
+"content_training": "Hanan Al-Hroub was a poorly paid teacher in the West Bank. Then she won the $1 million Global Teacher Prize. The committee praised Mrs. Al-Hroub's 'play and learn' method, which she still employs. Besides her clown outfit, Mrs. Al-Hroub uses balloons, hula-hoops, toy cars and puppets to explain her lessons. Her aim is to make the classroom a calm and fun place where children can forget about the struggle of daily life, and open their minds.\n\n'We play first, and when we play we learn,' she said. 'The kids don't even realise they are learning.'\n\nIn addition to the toys and balloons, which she pays for with her own money, she uses videos and even PowerPoint in the classroom. For the first month of a new school year, her eight-year-old pupils may not even see an exercise book.\n\nParents often refuse the focus on play. That soon changes, Mrs. Al-Hroub says, when they realise that her methods improve behaviour – especially in troubled kids – and academic results. She also sees it as her duty to build their characters. 'No to violence' is a motto in her classes.\n\nMrs. Al-Hroub plans to establish her own foundation and use some of her winnings to train other teachers to follow her approach. It is worth mentioning that Mrs. Al-Hroub's dream was to be a doctor but failing to do so did not prevent her from being a special person who could make a difference.",
+"content_exam": "Hanan Al-Hroub was a poorly paid teacher in the West Bank. Then she won the $1 million Global Teacher Prize. The committee praised Mrs. Al-Hroub's 'play and learn' method, which she still employs. Besides her clown outfit, Mrs. Al-Hroub uses balloons, hula-hoops, toy cars and puppets to explain her lessons. Her aim is to make the classroom a calm and fun place where children can forget about the struggle of daily life, and open their minds. She pays for the toys with her own money and uses videos and PowerPoint. For the first month, her pupils may not even see an exercise book.",
+"questions": [
+{
+"id": "L1_TXT_C01",
+"type": "choice",
+"question": "Hanan Al-Hroub was a ______ teacher before winning the prize.",
+"options": [
+"well-paid doctor",
+"poorly paid teacher",
+"school manager",
+"university professor"
+],
+"correct": 1,
+"explanation": "She was a poorly paid teacher in the West Bank."
+},
+{
+"id": "L1_TXT_C02",
+"type": "choice",
+"question": "She won the $1 million ______ .",
+"options": [
+"Nobel Prize",
+"Global Teacher Prize",
+"Peace Prize",
+"Literature Prize"
+],
+"correct": 1,
+"explanation": "She won the $1 million Global Teacher Prize."
+},
+{
+"id": "L1_TXT_C03",
+"type": "choice",
+"question": "Mrs. Al-Hroub uses ______ to explain her lessons.",
+"options": [
+"books and pens",
+"balloons, hula-hoops, toy cars and puppets",
+"computers and tablets",
+"chalkboard only"
+],
+"correct": 1,
+"explanation": "She uses balloons, hula-hoops, toy cars and puppets."
+},
+{
+"id": "L1_TXT_C04",
+"type": "choice",
+"question": "Her aim is to make the classroom a ______ place.",
+"options": [
+"quiet and serious",
+"calm and fun",
+"noisy and chaotic",
+"dark and silent"
+],
+"correct": 1,
+"explanation": "Her aim is to make the classroom a calm and fun place."
+},
+{
+"id": "L1_TXT_C05",
+"type": "choice",
+"question": "Mrs. Al-Hroub's method is called the ______ method.",
+"options": [
+"study and learn",
+"play and learn",
+"work and learn",
+"read and learn"
+],
+"correct": 1,
+"explanation": "The committee praised her 'play and learn' method."
+}
+]
+},
+{
+"id": 2,
+"title": "A Different Class - Part 2",
+"source": "student_book",
+"type": "tf_answer",
+"content_training": "Hanan Al-Hroub was a poorly paid teacher in the West Bank. Then she won the $1 million Global Teacher Prize. The committee praised Mrs. Al-Hroub's 'play and learn' method, which she still employs. Besides her clown outfit, Mrs. Al-Hroub uses balloons, hula-hoops, toy cars and puppets to explain her lessons. Her aim is to make the classroom a calm and fun place where children can forget about the struggle of daily life, and open their minds.\n\n'We play first, and when we play we learn,' she said. 'The kids don't even realise they are learning.'\n\nIn addition to the toys and balloons, which she pays for with her own money, she uses videos and even PowerPoint in the classroom. For the first month of a new school year, her eight-year-old pupils may not even see an exercise book.\n\nParents often refuse the focus on play. That soon changes, Mrs. Al-Hroub says, when they realise that her methods improve behaviour – especially in troubled kids – and academic results. She also sees it as her duty to build their characters. 'No to violence' is a motto in her classes.\n\nMrs. Al-Hroub plans to establish her own foundation and use some of her winnings to train other teachers to follow her approach. It is worth mentioning that Mrs. Al-Hroub's dream was to be a doctor but failing to do so did not prevent her from being a special person who could make a difference.",
+"content_exam": "'We play first, and when we play we learn,' she said. 'The kids don't even realise they are learning.' Parents often refuse the focus on play. That soon changes when they realise that her methods improve behaviour – especially in troubled kids – and academic results. She also sees it as her duty to build their characters. 'No to violence' is a motto in her classes. Mrs. Al-Hroub plans to establish her own foundation and use some of her winnings to train other teachers to follow her approach. Her dream was to be a doctor but failing to do so did not prevent her from making a difference.",
+"questions": [
+{
+"id": "L1_TXT_TF01",
+"type": "truefalse",
+"question": "Mrs. Al-Hroub believes that children learn when they play.",
+"correct": true,
+"explanation": "She said: 'We play first, and when we play we learn.'"
+},
+{
+"id": "L1_TXT_TF02",
+"type": "truefalse",
+"question": "Parents immediately support the focus on play.",
+"correct": false,
+"explanation": "Parents often refuse the focus on play at first."
+},
+{
+"id": "L1_TXT_TF03",
+"type": "truefalse",
+"question": "'No to violence' is a motto in her classes.",
+"correct": true,
+"explanation": "'No to violence' is a motto in her classes."
+},
+{
+"id": "L1_TXT_A01",
+"type": "answer",
+"question": "What changes parents' minds about her method?",
+"keywords": ["improve behaviour", "academic results", "behaviour", "results"],
+"explanation": "They realise her methods improve behaviour and academic results."
+},
+{
+"id": "L1_TXT_A02",
+"type": "answer",
+"question": "What does Mrs. Al-Hroub plan to do with her winnings?",
+"keywords": ["establish foundation", "train teachers", "foundation"],
+"explanation": "She plans to establish her own foundation and train other teachers."
+}
+]
+},
+{
+"id": 3,
+"title": "From Microsoft to Tomatoes - Part 1",
+"source": "activity_book",
+"type": "choice",
+"content_training": "One day, an unemployed man went to apply for a job with Microsoft as a cleaner. The manager said: 'Let me have your e-mail address, so that I can send you a form to complete and tell you when you can start.' The man said that he had no computer or email address.\n\nThe manager: 'Well, then, that means that you virtually don't exist and therefore can't be employed.'\n\nThe man looked at the last £10 in his wallet and thought of buying tomatoes in bulk. Within less than 2 hours, he sold all the tomatoes at 100% profit. Repeating the process several times that day, he ended up with almost £100 before going to sleep that night. Getting up early every day and going to bed late, he multiplied his profits quickly. After a short time he bought a cart to transport several dozen boxes of tomatoes.\n\nBy the end of the second year, he became the owner of a fleet of trucks and the manager of a staff of a hundred former unemployed people, all selling tomatoes.\n\nPlanning for the future of his wife and children, he decided to buy life insurance. An adviser asked him for his e-mail address in order to send the final documents electronically. When the man replied that he has no e-mail, the adviser felt astonished and said: 'How did you make such wealth without Internet and e-mail? Just imagine where you would-be now, if you had been connected to the internet from the very start!'\n\nAfter a moment of thought, the tomato millionaire replied: 'I would be a floor cleaner at Microsoft!'",
+"content_exam": "One day, an unemployed man went to apply for a job with Microsoft as a cleaner. The manager said: 'Let me have your e-mail address, so that I can send you a form to complete and tell you when you can start.' The man said that he had no computer or email address. The manager replied: 'Well, then, that means that you virtually don't exist and therefore can't be employed.' The man looked at the last £10 in his wallet and thought of buying tomatoes in bulk. Within less than 2 hours, he sold all the tomatoes at 100% profit. Repeating the process, he ended up with almost £100 before going to sleep.",
+"questions": [
+{
+"id": "L1_TXT_C06",
+"type": "choice",
+"question": "The man applied for a job as a ______ at Microsoft.",
+"options": [
+"manager",
+"cleaner",
+"driver",
+"security guard"
+],
+"correct": 1,
+"explanation": "He applied for a job as a cleaner."
+},
+{
+"id": "L1_TXT_C07",
+"type": "choice",
+"question": "The manager asked for his ______ address.",
+"options": [
+"home",
+"work",
+"email",
+"postal"
+],
+"correct": 2,
+"explanation": "The manager asked for his email address."
+},
+{
+"id": "L1_TXT_C08",
+"type": "choice",
+"question": "The man had no computer or ______ .",
+"options": [
+"phone",
+"car",
+"email",
+"money"
+],
+"correct": 2,
+"explanation": "The man had no computer or email address."
+},
+{
+"id": "L1_TXT_C09",
+"type": "choice",
+"question": "The manager said the man doesn't ______ and can't be employed.",
+"options": [
+"work",
+"try",
+"exist",
+"care"
+],
+"correct": 2,
+"explanation": "The manager said he doesn't exist and can't be employed."
+},
+{
+"id": "L1_TXT_C10",
+"type": "choice",
+"question": "The man was ______ before applying for the job.",
+"options": [
+"employed",
+"unemployed",
+"rich",
+"studying"
+],
+"correct": 1,
+"explanation": "An unemployed man went to apply for a job."
+}
+]
+},
+{
+"id": 4,
+"title": "From Microsoft to Tomatoes - Part 2",
+"source": "activity_book",
+"type": "tf_answer",
+"content_training": "One day, an unemployed man went to apply for a job with Microsoft as a cleaner. The manager said: 'Let me have your e-mail address, so that I can send you a form to complete and tell you when you can start.' The man said that he had no computer or email address.\n\nThe manager: 'Well, then, that means that you virtually don't exist and therefore can't be employed.'\n\nThe man looked at the last £10 in his wallet and thought of buying tomatoes in bulk. Within less than 2 hours, he sold all the tomatoes at 100% profit. Repeating the process several times that day, he ended up with almost £100 before going to sleep that night. Getting up early every day and going to bed late, he multiplied his profits quickly. After a short time he bought a cart to transport several dozen boxes of tomatoes.\n\nBy the end of the second year, he became the owner of a fleet of trucks and the manager of a staff of a hundred former unemployed people, all selling tomatoes.\n\nPlanning for the future of his wife and children, he decided to buy life insurance. An adviser asked him for his e-mail address in order to send the final documents electronically. When the man replied that he has no e-mail, the adviser felt astonished and said: 'How did you make such wealth without Internet and e-mail? Just imagine where you would-be now, if you had been connected to the internet from the very start!'\n\nAfter a moment of thought, the tomato millionaire replied: 'I would be a floor cleaner at Microsoft!'",
+"content_exam": "Getting up early every day and going to bed late, he multiplied his profits quickly. After a short time he bought a cart to transport several dozen boxes of tomatoes. By the end of the second year, he became the owner of a fleet of trucks and the manager of a staff of a hundred former unemployed people, all selling tomatoes. Planning for the future of his wife and children, he decided to buy life insurance. An adviser asked him for his e-mail address in order to send the final documents electronically. When the man replied that he has no e-mail, the adviser felt astonished.",
+"questions": [
+{
+"id": "L1_TXT_TF04",
+"type": "truefalse",
+"question": "He sold the tomatoes at 50% profit.",
+"correct": false,
+"explanation": "He sold all the tomatoes at 100% profit."
+},
+{
+"id": "L1_TXT_TF05",
+"type": "truefalse",
+"question": "He ended up with almost £100 by the end of the day.",
+"correct": true,
+"explanation": "He ended up with almost £100 before going to sleep."
+},
+{
+"id": "L1_TXT_TF06",
+"type": "truefalse",
+"question": "After a short time, he bought a cart to transport tomatoes.",
+"correct": true,
+"explanation": "After a short time he bought a cart to transport several dozen boxes of tomatoes."
+},
+{
+"id": "L1_TXT_A03",
+"type": "answer",
+"question": "What did he buy after a short time?",
+"keywords": ["cart"],
+"explanation": "After a short time he bought a cart."
+},
+{
+"id": "L1_TXT_A04",
+"type": "answer",
+"question": "What did the adviser ask him for?",
+"keywords": ["email address", "e-mail", "email"],
+"explanation": "An adviser asked him for his e-mail address."
+}
+]
+},
+{
+"id": 5,
+"title": "From Microsoft to Tomatoes - Part 3",
+"source": "activity_book",
+"type": "tf_answer",
+"content_training": "One day, an unemployed man went to apply for a job with Microsoft as a cleaner. The manager said: 'Let me have your e-mail address, so that I can send you a form to complete and tell you when you can start.' The man said that he had no computer or email address.\n\nThe manager: 'Well, then, that means that you virtually don't exist and therefore can't be employed.'\n\nThe man looked at the last £10 in his wallet and thought of buying tomatoes in bulk. Within less than 2 hours, he sold all the tomatoes at 100% profit. Repeating the process several times that day, he ended up with almost £100 before going to sleep that night. Getting up early every day and going to bed late, he multiplied his profits quickly. After a short time he bought a cart to transport several dozen boxes of tomatoes.\n\nBy the end of the second year, he became the owner of a fleet of trucks and the manager of a staff of a hundred former unemployed people, all selling tomatoes.\n\nPlanning for the future of his wife and children, he decided to buy life insurance. An adviser asked him for his e-mail address in order to send the final documents electronically. When the man replied that he has no e-mail, the adviser felt astonished and said: 'How did you make such wealth without Internet and e-mail? Just imagine where you would-be now, if you had been connected to the internet from the very start!'\n\nAfter a moment of thought, the tomato millionaire replied: 'I would be a floor cleaner at Microsoft!'",
+"content_exam": "The adviser asked the man for his e-mail address to send the final documents electronically. When the man replied that he had no e-mail, the adviser felt astonished and said: 'How did you make such wealth without Internet and e-mail? Just imagine where you would be now, if you had been connected to the internet from the very start!' After a moment of thought, the tomato millionaire replied: 'I would be a floor cleaner at Microsoft!' The man's story shows that with determination and the required skills, one can make a difference. He proved that success does not always depend on technology or email, but on hard work and smart thinking. Even without modern technology, a person with a strong will can achieve great success and help others. This story teaches us that we should never give up, no matter what challenges we face.",
+"questions": [
+{
+"id": "L1_TXT_TF07",
+"type": "truefalse",
+"question": "The adviser was astonished when the man said he had no email.",
+"correct": true,
+"explanation": "The adviser felt astonished when the man replied that he has no e-mail."
+},
+{
+"id": "L1_TXT_TF08",
+"type": "truefalse",
+"question": "The man proved that success depends only on technology.",
+"correct": false,
+"explanation": "He proved that success does not always depend on technology or email, but on hard work and smart thinking."
+},
+{
+"id": "L1_TXT_TF09",
+"type": "truefalse",
+"question": "The story teaches us that we should give up when we face challenges.",
+"correct": false,
+"explanation": "The story teaches us that we should never give up, no matter what challenges we face."
+},
+{
+"id": "L1_TXT_A05",
+"type": "answer",
+"question": "What does the man's story show?",
+"keywords": ["determination", "required skills", "make a difference", "hard work", "smart thinking"],
+"explanation": "With determination and the required skills, one can make a difference. Success depends on hard work and smart thinking."
+},
+{
+"id": "L1_TXT_A06",
+"type": "answer",
+"question": "What should we never do according to the story?",
+"keywords": ["give up", "never give up", "no matter what challenges"],
+"explanation": "We should never give up, no matter what challenges we face."
+}
+]
+}
+]
+}
