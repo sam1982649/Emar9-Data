@@ -1,0 +1,301 @@
+{
+"vocabulary": [
+{ "word": "Academic", "translation": "أكاديمي / دراسي" },
+{ "word": "Advance", "translation": "يتقدم / يطور" },
+{ "word": "Advice", "translation": "نصيحة" },
+{ "word": "Adviser", "translation": "مستشار" },
+{ "word": "Aim", "translation": "هدف" },
+{ "word": "Amazing", "translation": "مذهل" },
+{ "word": "Another", "translation": "آخر" },
+{ "word": "Apply for", "translation": "يتقدم لـ (وظيفة)" },
+{ "word": "Approach", "translation": "نهج / أسلوب" },
+{ "word": "Astonished", "translation": "مندهش / متعجب" },
+{ "word": "Astonishment", "translation": "دهشة" },
+{ "word": "Badge", "translation": "شارة" },
+{ "word": "Badge of Rank", "translation": "شارة الرتبة" },
+{ "word": "Balloons", "translation": "بالونات" },
+{ "word": "Behaviour", "translation": "سلوك" },
+{ "word": "Benefits", "translation": "فوائد / منافع" },
+{ "word": "Build", "translation": "يبني" },
+{ "word": "Bulk", "translation": "بالجملة / بكميات كبيرة" },
+{ "word": "Calm", "translation": "هادئ" },
+{ "word": "Career", "translation": "مهنة / مسيرة مهنية" },
+{ "word": "Cart", "translation": "عربة" },
+{ "word": "Character", "translation": "شخصية" },
+{ "word": "Child protection", "translation": "حماية الطفل" },
+{ "word": "Classroom", "translation": "فصل دراسي" },
+{ "word": "Cleaner", "translation": "عامل نظافة" },
+{ "word": "Committee", "translation": "لجنة" },
+{ "word": "Community", "translation": "مجتمع" },
+{ "word": "Connection", "translation": "اتصال" },
+{ "word": "Country", "translation": "بلد" },
+{ "word": "Daily", "translation": "يومي" },
+{ "word": "Determination", "translation": "عزيمة / تصميم" },
+{ "word": "Difference", "translation": "فرق" },
+{ "word": "Driving", "translation": "قيادة" },
+{ "word": "Duty", "translation": "واجب" },
+{ "word": "Employ", "translation": "يستخدم / يوظف" },
+{ "word": "Employee", "translation": "موظف" },
+{ "word": "Employer", "translation": "صاحب عمل" },
+{ "word": "Enormous", "translation": "هائل / ضخم" },
+{ "word": "Establish", "translation": "يؤسس" },
+{ "word": "Existence", "translation": "وجود" },
+{ "word": "Exercise book", "translation": "كراسة التمارين" },
+{ "word": "Explain", "translation": "يشرح" },
+{ "word": "Fitness", "translation": "لياقة بدنية" },
+{ "word": "Fleet", "translation": "أسطول" },
+{ "word": "Focus", "translation": "تركيز" },
+{ "word": "Former", "translation": "سابق" },
+{ "word": "Foundation", "translation": "مؤسسة" },
+{ "word": "Global", "translation": "عالمي" },
+{ "word": "Headgear", "translation": "غطاء رأس" },
+{ "word": "Hula-hoops", "translation": "أطواق الهولا" },
+{ "word": "In addition to", "translation": "بالإضافة إلى" },
+{ "word": "Improve", "translation": "يحسن" },
+{ "word": "Insurance", "translation": "تأمين" },
+{ "word": "Lack", "translation": "نقص / عدم وجود" },
+{ "word": "Latch", "translation": "مزلاج" },
+{ "word": "Luggage", "translation": "أمتعة" },
+{ "word": "Make a difference", "translation": "يحدث فرقاً" },
+{ "word": "Manager", "translation": "مدير" },
+{ "word": "Method", "translation": "طريقة / أسلوب" },
+{ "word": "Methods", "translation": "أساليب / طرق" },
+{ "word": "Microsoft", "translation": "مايكروسوفت" },
+{ "word": "Motto", "translation": "شعار" },
+{ "word": "Multiply", "translation": "يضاعف / يتضاعف" },
+{ "word": "Neckerchief", "translation": "وشاح (كشافة)" },
+{ "word": "Outfit", "translation": "زي / طقم ملابس" },
+{ "word": "Poorly", "translation": "بشكل سيء / فقير" },
+{ "word": "PowerPoint", "translation": "بوربوينت" },
+{ "word": "Praise", "translation": "يمدح / يثني" },
+{ "word": "Prevent", "translation": "يمنع" },
+{ "word": "Prize", "translation": "جائزة" },
+{ "word": "Profit", "translation": "ربح" },
+{ "word": "Protection", "translation": "حماية" },
+{ "word": "Pupils", "translation": "تلاميذ" },
+{ "word": "Puppets", "translation": "دمى / مسرح عرائس" },
+{ "word": "Queue", "translation": "طابور" },
+{ "word": "Rank", "translation": "رتبة" },
+{ "word": "Realise", "translation": "يدرك" },
+{ "word": "Refuse", "translation": "يرفض" },
+{ "word": "Reject", "translation": "يرفض" },
+{ "word": "Required", "translation": "مطلوب" },
+{ "word": "Results", "translation": "نتائج" },
+{ "word": "Scout", "translation": "كشاف" },
+{ "word": "Scout group", "translation": "مجموعة كشافة" },
+{ "word": "Shirt", "translation": "قميص" },
+{ "word": "Shorts", "translation": "شورت" },
+{ "word": "Shoulder Loops", "translation": "حلقات كتف" },
+{ "word": "Sign language", "translation": "لغة إشارة" },
+{ "word": "Skill", "translation": "مهارة" },
+{ "word": "Splendid", "translation": "رائع / فاخر" },
+{ "word": "Spilling", "translation": "ينسكب" },
+{ "word": "Staff", "translation": "طاقم / موظفين" },
+{ "word": "Stress", "translation": "توتر / إجهاد" },
+{ "word": "Struggle", "translation": "نضال / صراع" },
+{ "word": "Teacher Prize", "translation": "جائزة المعلم" },
+{ "word": "Technology", "translation": "تكنولوجيا" },
+{ "word": "Together", "translation": "معاً" },
+{ "word": "Train", "translation": "يدرب" },
+{ "word": "Transport", "translation": "ينقل" },
+{ "word": "Troubled", "translation": "مضطرب" },
+{ "word": "Trousers", "translation": "بنطال" },
+{ "word": "Unemployed", "translation": "عاطل عن العمل" },
+{ "word": "Unemployment", "translation": "بطالة" },
+{ "word": "Uniform", "translation": "زي رسمي" },
+{ "word": "Videos", "translation": "فيديوهات" },
+{ "word": "Violence", "translation": "عنف" },
+{ "word": "Virtually", "translation": "عملياً / فعلياً" },
+{ "word": "Volunteering", "translation": "تطوع" },
+{ "word": "Wallet", "translation": "محفظة" },
+{ "word": "Wealth", "translation": "ثروة" },
+{ "word": "Web Belt", "translation": "حزام قماشي" },
+{ "word": "West Bank", "translation": "الضفة الغربية" },
+{ "word": "Winnings", "translation": "أرباح / مكاسب" },
+{ "word": "Worth mentioning", "translation": "جدير بالذكر" }
+],
+"tables": [
+{
+"title": "📌 القاعدة الأساسية للدرس الأول",
+"subtitle": "الفرق بين Present Simple و Present Progressive",
+"headers": ["Present Simple", "Present Progressive"],
+"rows": [
+["✅ حقائق عامة", "✅ حدث يحدث الآن"],
+["✅ عادات روتينية", "✅ فترة مؤقتة"],
+["✅ كلمات دلالية: always, usually, often, sometimes, rarely, never, every day", "✅ كلمات دلالية: now, right now, at the moment, these days, nowadays"],
+["✅ He works every day.", "✅ He is working right now."],
+["✅ She always runs.", "✅ She is running now."],
+["✅ Usually, I work as a secretary.", "✅ but this summer, I am studying French."]
+],
+"explanation": "المضارع البسيط (Present Simple) للحقائق والعادات الثابتة. المضارع المستمر (Present Progressive) للأحداث الجارية الآن أو الفترات المؤقتة.",
+"examples": "Mrs. Al-Hroub uses balloons. (حقيقة عامة) / She is talking on the phone right now. (حدث الآن)"
+},
+{
+"title": "🟢 القواعد الفرعية - 1: زمن المضارع البسيط Present Simple",
+"subtitle": "صيغة الزمن",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + Verb 1 (s/es مع he/she/it)", "She uses balloons. / They play tennis."],
+["النفي (Negative)", "Subject + do/does + not + Verb 1", "She does not use books. / They don't play."],
+["السؤال (Question)", "Do/Does + Subject + Verb 1?", "Does she use balloons? / Do they play?"]
+],
+"explanation": "نستخدم المضارع البسيط للحقائق والعادات. نضيف s/es للفعل مع he/she/it. للنفي نستخدم do not (don't) و does not (doesn't). للسؤال نستخدم do و does قبل الفاعل.",
+"examples": "Mrs. Al-Hroub uses balloons. / Parents often refuse the focus on play. / The kids don't even realise they are learning."
+},
+{
+"title": "🟢 القواعد الفرعية - 2: زمن المضارع المستمر Present Progressive",
+"subtitle": "صيغة الزمن",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + am/is/are + Verb + ing", "She is talking. / They are playing."],
+["النفي (Negative)", "Subject + am/is/are + not + Verb + ing", "She is not talking. / They aren't playing."],
+["السؤال (Question)", "Am/Is/Are + Subject + Verb + ing?", "Is she talking? / Are they playing?"]
+],
+"explanation": "نستخدم المضارع المستمر للأحداث الجارية الآن أو الفترات المؤقتة. يتكون من (am/is/are) + الفعل + ing. للنفي نضيف not بعد am/is/are. للسؤال نضع am/is/are قبل الفاعل.",
+"examples": "I am studying in the library at the moment. / John's health is improving. / They are playing tennis."
+},
+{
+"title": "🟢 القواعد الفرعية - 3: الماضي البسيط Past Simple",
+"subtitle": "صيغة الزمن",
+"headers": ["النوع", "الصيغة", "مثال"],
+"rows": [
+["الإثبات (Affirmative)", "Subject + Verb 2 (Past)", "She won the prize. / They helped old people."],
+["النفي (Negative)", "Subject + did + not + Verb 1", "She did not win. / They didn't help."],
+["السؤال (Question)", "Did + Subject + Verb 1?", "Did she win? / Did they help?"]
+],
+"explanation": "نستخدم الماضي البسيط للأحداث التي وقعت وانتهت في الماضي. يتكون من الفعل في الماضي (التصريف الثاني). للنفي نستخدم did not (didn't) + الفعل في المصدر. للسؤال نستخدم did قبل الفاعل + الفعل في المصدر.",
+"examples": "He joined the group when he was 10 years old. / They helped old people last week."
+},
+{
+"title": "🟢 القواعد الفرعية - 4: جدول الضمائر الكامل",
+"headers": ["Subject", "Object", "Possessive Adj", "Possessive Pron"],
+"rows": [
+["I", "me", "my", "mine"],
+["You", "you", "your", "yours"],
+["He", "him", "his", "his"],
+["She", "her", "her", "hers"],
+["It", "it", "its", "its"],
+["We", "us", "our", "ours"],
+["They", "them", "their", "theirs"]
+],
+"explanation": "ضمائر الفاعل تستخدم قبل الفعل، ضمائر المفعول بعد الفعل أو حرف الجر، صفات الملكية تأتي قبل الاسم، ضمائر الملكية تحل محل الاسم",
+"examples": "I am Syrian. / Listen to me. / This is my book. / This book is mine."
+},
+{
+"title": "🟢 القواعد الفرعية - 5: جدول حروف الجر Prepositions",
+"headers": ["Preposition", "الاستخدام", "مثال"],
+"rows": [
+["in", "داخل (مكان/دولة/مدينة)", "in Syria, in the West Bank"],
+["on", "على سطح / يوم", "on the table, on Fridays"],
+["at", "مكان محدد / وقت محدد", "at school, at 5 o'clock"],
+["from", "من (أصل/مصدر)", "from Syria, from the text"],
+["for", "لـ / من أجل / للشيء المشترى", "apply for a job, pay for the toys"],
+["to", "إلى (هدف / اتجاه)", "to explain her lessons, go to school"],
+["with", "مع / بواسطة", "with her own money, with a hammer"],
+["about", "عن / حول", "about child protection, about the struggle"],
+["of", "لـ (ملكية / جزء من)", "the owner of a fleet, the staff of a hundred"]
+],
+"explanation": "حروف الجر تأتي قبل الاسم أو الضمير ولها استخدامات متعددة حسب السياق",
+"examples": "I live in Damascus. / She pays for the toys. / He applied for a job."
+},
+{
+"title": "🟢 القواعد الفرعية - 6: أدوات الاستفهام Question Words",
+"headers": ["Question Word", "الاستخدام", "مثال"],
+"rows": [
+["What", "يسأل عن شيء / ماذا", "What does she teach?"],
+["Who", "يسأل عن شخص / من", "Who had to employ a hammer?"],
+["Where", "يسأل عن مكان / أين", "Where does she teach?"],
+["When", "يسأل عن زمان / متى", "When are we visiting our cousins?"],
+["Why", "يسأل عن سبب / لماذا", "Why did he buy a cart?"],
+["How much", "يسأل عن كمية/سعر / كم", "How much did she win?"],
+["How long", "يسأل عن مدة / كم", "How long did his struggle last?"],
+["How old", "يسأل عن عمر / كم عمر", "How old was he?"]
+],
+"explanation": "أدوات الاستفهام توضع في بداية السؤال ويتبعها الفعل المساعد ثم الفاعل ثم الفعل الرئيسي",
+"examples": "How much did she win? / Where does she teach? / Why did he buy a cart?"
+},
+{
+"title": "🟢 القواعد الفرعية - 7: الأفعال المساعدة في السؤال Auxiliary Verbs",
+"headers": ["Auxiliary Verb", "الاستخدام", "مثال"],
+"rows": [
+["do / does", "للسؤال في المضارع البسيط", "Does he travel every year?"],
+["did", "للسؤال في الماضي البسيط", "Did she win the prize?"],
+["is / are", "للسؤال في المضارع المستمر", "Are they playing tennis?"],
+["was / were", "للسؤال في الماضي المستمر", "Was he at school?"]
+],
+"explanation": "في السؤال نضع الفعل المساعد قبل الفاعل ثم الفعل الرئيسي في المصدر",
+"examples": "Does she use balloons? / Did he buy a cart? / Are they helping old people?"
+},
+{
+"title": "🟢 القواعد الفرعية - 8: ترتيب السؤال Question Formation",
+"headers": ["نوع السؤال", "التركيب", "مثال"],
+"rows": [
+["سؤال بـ Question Word", "QW + Aux + Subject + Main Verb?", "How much did she win?"],
+["سؤال بـ Yes/No", "Aux + Subject + Main Verb?", "Does she teach in a primary school?"],
+["سؤال عن الفاعل", "QW + Main Verb + ...?", "Who had to employ a hammer?"]
+],
+"explanation": "قاعدة عامة: (أداة استفهام) + (فعل مساعد) + (فاعل) + (فعل رئيسي) + (باقي الجملة)؟",
+"examples": "What does Mrs. Al-Hroub use? / How long did his struggle last? / Who helped old people?"
+},
+{
+"title": "🟢 القواعد الفرعية - 9: أدوات الربط Conjunctions",
+"headers": ["Conjunction", "الاستخدام", "مثال"],
+"rows": [
+["and", "للربط بين كلمتين متشابهتين", "calm and fun"],
+["but", "للتعبير عن تباين", "I tried, but I failed."],
+["so", "للتعبير عن نتيجة", "I was tired, so I slept."],
+["so that", "للتعبير عن الهدف", "so that I can send you a form"],
+["because", "للتعبير عن سبب", "He got the job because of his mother's advice."],
+["although", "للتعبير عن تضاد / على الرغم من", "He put the door latch back although the door was open."]
+],
+"explanation": "أدوات الربط تستخدم لربط الجمل أو الكلمات",
+"examples": "Her aim is to make the classroom a calm and fun place. / He didn't get the job because he had no email."
+},
+{
+"title": "🟢 القواعد الفرعية - 10: الأفعال المركبة Phrasal Verbs",
+"headers": ["Phrasal Verb", "المعنى", "مثال"],
+"rows": [
+["look at", "ينظر إلى", "The man looked at the last £10 in his wallet."],
+["apply for", "يتقدم لـ (وظيفة)", "He went to apply for a job."],
+["pay for", "يدفع ثمن", "She pays for the toys with her own money."]
+],
+"explanation": "الأفعال المركبة تتكون من فعل + حرف جر ويكون لها معنى خاص",
+"examples": "He looked at the money. / She applied for a job. / He paid for the toys."
+},
+{
+"title": "🟢 القواعد الفرعية - 11: اختيار الكلمة المناسبة Word Choice",
+"headers": ["الكلمة", "النوع", "المعنى", "مثال"],
+"rows": [
+["manager", "اسم (شخص)", "مدير", "She asked to meet the manager."],
+["manage", "فعل", "يدير", "He managed a staff."],
+["unemployed", "صفة", "عاطل عن العمل", "He has been unemployed for months."],
+["unemployment", "اسم", "بطالة", "Unemployment is a big problem."],
+["existence", "اسم", "وجود", "Life doesn't exist on Mars."],
+["exist", "فعل", "يوجد", "Life doesn't exist on Mars."],
+["astonished", "صفة", "مندهش", "I was astonished."],
+["astonishment", "اسم", "دهشة", "He felt astonishment."]
+],
+"explanation": "اختيار الكلمة المناسبة يعتمد على موقعها في الجملة (اسم، فعل، صفة)",
+"examples": "He is a manager. / He manages the company. / He is unemployed."
+},
+{
+"title": "🟢 القواعد الفرعية - 12: النطق - الصوت القصير والطويل /æ/ و /a:/",
+"headers": ["الصوت القصير /æ/", "الصوت الطويل /a:/"],
+"rows": [
+["cab", "jar"],
+["dad", "father"],
+["bag", "car"],
+["van", "class"],
+["mat", "arch"],
+["hat", "part"],
+["map", "palm"],
+["sad", "calm"],
+["glad", ""],
+["ant", ""],
+["flag", ""]
+],
+"explanation": "الصوت القصير /æ/ يظهر في كلمات مثل (cab, dad, bag) والصوت الطويل /a:/ يظهر في كلمات مثل (jar, father, car)",
+"examples": "Listen and repeat: cab vs jar, dad vs father, bag vs car"
+}
+]
+  }
