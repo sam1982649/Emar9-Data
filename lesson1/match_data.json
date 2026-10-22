@@ -10,7 +10,7 @@
 "question_start": 1,
 "options": [
 { "letter": "a", "text": "Mrs. Al-Hroub uses balloons" },
-{ "letter": "b", "text": "to build their characters" },
+{ "letter": "b", "text": "duty to build their characters" },
 { "letter": "c", "text": "her own foundation" },
 { "letter": "d", "text": "prevent her from being a special person" },
 { "letter": "e", "text": "improve behaviour" },
@@ -24,7 +24,7 @@
 "translation": "بالإضافة إلى ملابسها المهرجة، تستخدم السيدة الحروب البالونات"
 },
 {
-"start": "She sees it as her duty",
+"start": "She sees it as her ",
 "correct": "b",
 "question_number": 2,
 "translation": "ترى أنها واجبها أن تبني شخصياتهم"
